@@ -1,0 +1,9 @@
+Profession: Politician
+Sex: Male
+Age: None
+Hobby: ddd
+Life condition: pipipapa
+Item in inventory: bbb
+Phobia: fff
+Character: hhh
+Additional information: ggg
